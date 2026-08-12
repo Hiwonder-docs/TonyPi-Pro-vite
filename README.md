@@ -1,6 +1,6 @@
-# TonyPi-Pro Documentation
+# TonyPi_Pro Documentation
 
-This repository contains the TonyPi-Pro VitePress documentation site. The
+This repository contains the TonyPi_Pro VitePress documentation site. The
 documentation source files are Markdown files under `docs/docs/`.
 
 ## Local development
@@ -19,7 +19,7 @@ npm run docs:build
 npm run docs:stage-main
 ```
 
-The staged production files are generated in `projects/TonyPi-Pro/en/latest/`.
+The staged production files are generated in `projects/TonyPi_Pro/en/latest/`.
 
 ## GitHub Pages deployment
 
@@ -30,11 +30,11 @@ The build artifacts under `projects/` are committed to the repository. Open
 The GitHub Pages direct URL is:
 
 ```text
-https://hiwonder-docs.github.io/TonyPi-Pro-vite/projects/TonyPi-Pro/en/latest/
+https://hiwonder-docs.github.io/TonyPi_Pro-vite/projects/TonyPi_Pro/en/latest/
 ```
 
 The public-facing URL (via the baota Nginx reverse proxy) is:
 
 ```text
-https://wiki-test.hiwonder.com/projects/TonyPi-Pro/en/latest/
+https://wiki-test.hiwonder.com/projects/TonyPi_Pro/en/latest/
 ```
