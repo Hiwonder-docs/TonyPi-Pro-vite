@@ -1,0 +1,13 @@
+import { _ as _export_sfc, o as openBlock, c as createElementBlock, ak as createStaticVNode } from "./chunks/framework.B5E0-uL1.js";
+const __pageData = JSON.parse('{"title":"Appendix","description":"","frontmatter":{},"headers":[],"relativePath":"docs/resources_download.md","filePath":"docs/resources_download.md"}');
+const _sfc_main = { name: "docs/resources_download.md" };
+function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
+  return openBlock(), createElementBlock("div", null, [..._cache[0] || (_cache[0] = [
+    createStaticVNode('<h1 id="appendix" tabindex="-1">Appendix <a class="header-anchor" href="#appendix" aria-label="Permalink to &quot;Appendix&quot;">​</a></h1><ul><li>System Image &amp; Source Code：If you want to get the system image and source code, please email us at <a href="mailto:support@hiwonder.com" target="_blank" rel="noreferrer">support@hiwonder.com</a>, and share your order number 😃</li><li>Google Drive：<a href="https://drive.google.com/drive/folders/1HsYi21H4fkIuNB8lpkcdnTRUkJyE4ObE?usp=sharing" target="_blank" rel="noreferrer">TonyPi Pro Resources</a></li><li>SD Card Formatting Tool：<a href="https://drive.google.com/drive/folders/1OeXvCHfW_EilMmOZqWCwlIHOdU1XSPw6?usp=sharing" target="_blank" rel="noreferrer">SD Card Formatting Tool</a></li><li>Image Burning Tool：<a href="https://drive.google.com/drive/folders/1grTB5E0rGwwUrFKkdOGF3Y1PB0jLLwlc?usp=sharing" target="_blank" rel="noreferrer">Image Burning Tool.zip</a></li><li>Remote Connection Tool：<a href="https://drive.google.com/drive/folders/1aEXEUxJD5vHFtTVFyGs2Dt8q5HPY-cGk?usp=sharing" target="_blank" rel="noreferrer">Remote Connection Tool</a></li><li>File Transfer Tool：<a href="https://drive.google.com/drive/folders/1PHQQE6K0-MR543qTqAqVD9IPg3Oid8mx?usp=sharing" target="_blank" rel="noreferrer">File Transfer Tool</a></li><li>PC Software：<a href="https://drive.google.com/drive/folders/1vCtM0Mzbz3BE3bUsgcKvOrzBEp7ZMbU9?usp=sharing" target="_blank" rel="noreferrer">PC Software</a></li><li>Firmware Flashing Tool：<a href="https://drive.google.com/drive/folders/1LwV4TehqX6nJHUp0eF_EUePXH1o-WiQQ?usp=sharing" target="_blank" rel="noreferrer">Firmware Flashing Tool</a></li><li>APP Installation Pack (Android)：<a href="https://play.google.com/store/apps/details?id=com.Wonder.Pi" target="_blank" rel="noreferrer">WonderPi</a></li><li>APP Installation Pack (iOS)：<a href="https://apps.apple.com/cn/app/wonderpi/id1477946178" target="_blank" rel="noreferrer">WonderPi</a></li></ul>', 2)
+  ])]);
+}
+const resources_download = /* @__PURE__ */ _export_sfc(_sfc_main, [["render", _sfc_render]]);
+export {
+  __pageData,
+  resources_download as default
+};
